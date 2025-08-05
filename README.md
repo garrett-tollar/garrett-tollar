@@ -1,4 +1,4 @@
-# Summary  
+# #whoami  
 Aspiring Penetration Tester with a strong foundation in cybersecurity and project management. I hold a Bachelor of Science and am pursuing a Master of Science in Cybersecurity. I am certified as a Project Management Professional (PMP), CompTIA Security+, and Pentest+. Over 5 years of hands-on experience in Network, Wireless, and Web Application Security using industry-standard tools such as Kali Linux, Metasploit, and BurpSuite. Adept at leveraging platforms like Hack The Box for practical, real-world problem-solving. Proven track record of success in high-stakes environments, including roles within the United States Air Force and Special Operations.
   
 
