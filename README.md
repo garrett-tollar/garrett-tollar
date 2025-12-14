@@ -1,5 +1,5 @@
 # #whoami  
-Aspiring Penetration Tester with a strong foundation in cybersecurity and project management. I hold a Bachelor of Science and am pursuing a Master of Science in Cybersecurity. I am certified as a Project Management Professional (PMP), CompTIA Security+, and Pentest+. Over 5 years of hands-on experience in Network, Wireless, and Web Application Security using industry-standard tools such as Kali Linux, Metasploit, and BurpSuite. Adept at leveraging platforms like Hack The Box for practical, real-world problem-solving. Proven track record of success in high-stakes environments, including roles within the United States Air Force and Special Operations.
+Aspiring Penetration Tester with a strong foundation in cybersecurity and project management. I hold a Bachelor of Science and a Master of Science in Cybersecurity. I am certified as a Project Management Professional (PMP), CompTIA Security+, and Pentest+. Over 5 years of hands-on experience in Network, Wireless, and Web Application Security using industry-standard tools such as Kali Linux, Metasploit, and BurpSuite. Adept at leveraging platforms like Hack The Box for practical, real-world problem-solving. Proven track record of success in high-stakes environments, including roles within the United States Air Force and Special Operations.
   
 
 ## Mission Statement:
@@ -16,10 +16,10 @@ Aspiring Penetration Tester with a strong foundation in cybersecurity and projec
 
 
 ## Credentials:
+* MS in Cybersecurity from UCWV.
 * BS in Cybersecurity from AMU. 
 * PenTest+, Security+, Project Management Professional (PMP)
-* Pwned 76 HackTheBox (HTB) machines & 23 advanced lab objectives over the course of 8 years. 
-* Pursuing MS in Cybersecurity UCWV.
+* Pwned 100+ HackTheBox (HTB) machines & 23 advanced lab objectives over the course of 8 years. 
   
   
 Let's connect and collaborate! Connect with me on [LinkedIn](https://www.linkedin.com/in/garrett-tollar/).  
